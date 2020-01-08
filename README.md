@@ -75,6 +75,13 @@ Currently your repository inherited the name of this CSR template repository tha
 1. navigate to the `Settings` of your repository, change the name of the repository to whatever you would like (note it cannot contain any spaces). Moving forward we will refer to it as `your-course-name`.
 2. as noted above, changing the name of the repository to `your-course-name` will also change the name of the sub-folder that your site is published from. This will cause many of the links of your site to break. But fear not! To fix this we will make changes to the `_config.yml` file.
 3. navigate to the `_config.yml` file in your repository, open it, and then click the pencil icon to be able to edit the `_config.yml` file in your browser
+4. change the `baseurl:` to match the sub-folder that your site is published from. It should be something like `baseurl: "/your-course-name"`. Note formatting here is important, the repository/sub-folder name must be in quotes and there must be a colon immediately after baseurl
+5. change other key information about your site. Update the title of your site, author, and description. Note: these do not need to be contained in quotes, the text you put here will appear exactly as you type it in the header and footer of your site's homepage.
+6. when you are finished editing your `_config.yml` file scroll down to commit your changes (this saves all of the changes you made, and keeps a record of what those changes were)
+7. next we need to change the links to images contained in the site's post
+8. open the `_posts` folder, and open the `2020-01-01-last-first.md`
+
+ the name of your repository
 
 
  2. Review
