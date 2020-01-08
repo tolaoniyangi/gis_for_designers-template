@@ -32,11 +32,11 @@ This tutorial does not assume any prior knowledge of HTML/CSS, it does however a
 
 ## Setting up your site
 
-#### Step 1: familiarize yourself with the structure of the site
+### Step 1: familiarize yourself with the structure of the site
 1. Review the template_site here: [centerforspatialresearch.github.io/template_site/](https://centerforspatialresearch.github.io/template_site/)
     - on the homepage, notice that there is (1) a header with a title, and link to an about page, (2) a grid of 'posts',and (3) a footer with the name and other key details about the site
     - in a sample post, notice that there is a central column of text with simple formatting and inline images and maps
-2. This website is being powered by content contained in [this](https://github.com/CenterForSpatialResearch/template_site)repository.
+2. This website is being powered by content contained in [this](https://github.com/CenterForSpatialResearch/template_site) repository.
 
     - the `_includes`, `_layout`, `_sass`, and `assets` folders contain the files that define the CSR template. You do not need to change any files inside these folders
     - the `_posts` folder is what contains the markdown files that will become individual pages on the website.
@@ -60,7 +60,7 @@ This tutorial does not assume any prior knowledge of HTML/CSS, it does however a
 
 That's it! Next we will clone the repository and walk through how to change key information to customize it for your own use.
 
-#### Step 2: fork this repository
+### Step 2: fork this repository
 1. 'fork' this repository to your own GitHub account (or to a GitHub organization where you are a collaborator)
     - use the fork button at the top of this page
     - you should now have a copy of this repository and all of its files associated with your own GitHub account
@@ -70,7 +70,7 @@ That's it! Next we will clone the repository and walk through how to change key 
     - select `master branch as the source`
     - a notice will appear that says `Your site is ready to be published at:` then the URL of your new website. After a few minutes, refresh this page and the notice will read `Your site is published at....`. Click on this link to see your new website
 
-#### Step 3: change the site name & set up the config.yml file
+### Step 3: change the site name & set up the config.yml file
 Currently your repository inherited the name of this CSR template repository that you forked it from: `template_site`. This means that the site's URL from GitHub Pages is also something like `yourgithubusername.github.io/template_site` (see note at the end of the guide about custom URLs) lets change this
 1. navigate to the `Settings` of your repository, change the name of the repository to whatever you would like (note it cannot contain any spaces). Moving forward we will refer to it as `your-course-name`
 2. as noted above, changing the name of the repository to `your-course-name` will also change the name of the sub-folder that your site is published from (if you scroll down to the `GitHub Pages` section of the `Settings` page you will see that the link to your site has changed). This will cause many of the links of your site to break. But fear not! To fix this we will make changes to the `_config.yml` file
@@ -89,5 +89,5 @@ Now you are ready to start adding your own material to your new website.
 
 
 
-## Advanced notes:
+### Advanced notes:
 - GitHub pages supports the use of custom URLs, instructions are available [here](https://help.GitHub.com/en/GitHub/working-with-GitHub-pages/configuring-a-custom-domain-for-your-GitHub-pages-site). If you change this you will likely need to change the base URL in the config.yml file of your site, as well as any links to images and other resources within your posts. These previously would have been '/template_site' or what ever you changed them to when renaming your repository in the steps above.
