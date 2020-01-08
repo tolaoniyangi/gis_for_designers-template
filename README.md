@@ -4,12 +4,12 @@ This repository contains a template built using [Jekyll](https://jekyllrb.com/) 
 
 You can preview the template [here](https://centerforspatialresearch.GitHub.io/template_site/).
 
-It was developed by the Columbia Center for Spatial Research (CSR) based on the Minima Jekyll theme in order to facilitate creating collaborative student publications in our seminars each year. Our goals were to create a framework that:
+It was developed by the [Columbia Center for Spatial Research](c4sr.columbia.edu) (CSR) based on the Minima Jekyll theme in order to facilitate creating collaborative student publications in our seminars each year. Our goals were to create a framework that:
 - uses static pages (rather than a database-driven system)
 - could be easily customized
 - is straightforward enough that it can be used by students with no prior experience making things on the web
 
-In spring 2019 the template was used by the [Conflict Urbanism: Puerto Rico Now](puerto-rico-now.c4sr.columbia.edu/).
+In spring 2019 the template was used by the [Conflict Urbanism: Puerto Rico Now](puerto-rico-now.c4sr.columbia.edu/) seminar, taught by Laura Kurgan and Frances Negrón-Muntaner.
 
 We are making this template available for others to adapt or use in their own courses.
 
