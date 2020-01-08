@@ -79,7 +79,7 @@ Currently your repository inherited the name of this CSR template repository tha
 5. change other key information about your site. Update the title of your site, author, and description. Note: these do not need to be contained in quotes, the text you put here will appear exactly as you type it in the header and footer of your site's homepage.
 6. when you are finished editing your `_config.yml` file scroll down to commit your changes (this saves all of the changes you made, and keeps a record of what those changes were)
 7. next we need to change the links to images contained in the site's post
-8. open the `_posts` folder, and open the `2020-01-01-last-first.md`
+8. open the `_posts` folder, and open the `2020-01-01-last-first.md` file
 
  the name of your repository
 
