@@ -64,30 +64,30 @@ That's it! Next we will clone the repository and walk through how to change key 
 1. 'fork' this repository to your own GitHub account (or to a GitHub organization where you are a collaborator)
     - use the fork button at the top of this page
     - you should now have a copy of this repository and all of its files associated with your own GitHub account
-2. publish your forked repository using GitHub pages.
+2. publish your forked repository using GitHub pages
     - navigate to your repository's `Settings` tab
     - scroll down to the `GitHub Pages` section
     - select `master branch as the source`
-    - a notice will appear that says `Your site is ready to be published at:` then the URL of your new website. After a few minutes, refresh this page and the notice will read `Your site is published at....`. Click on this link to see your new website.
+    - a notice will appear that says `Your site is ready to be published at:` then the URL of your new website. After a few minutes, refresh this page and the notice will read `Your site is published at....`. Click on this link to see your new website
 
 #### Step 3: change the site name & set up the config.yml file
-Currently your repository inherited the name of this CSR template repository that you forked it from: `template_site`. This means that the site's URL from GitHub Pages is also something like `yourgithubusername.github.io/template_site` (see note at the end of the guide about custom URLs) lets change this.
-1. navigate to the `Settings` of your repository, change the name of the repository to whatever you would like (note it cannot contain any spaces). Moving forward we will refer to it as `your-course-name`.
-2. as noted above, changing the name of the repository to `your-course-name` will also change the name of the sub-folder that your site is published from. This will cause many of the links of your site to break. But fear not! To fix this we will make changes to the `_config.yml` file.
+Currently your repository inherited the name of this CSR template repository that you forked it from: `template_site`. This means that the site's URL from GitHub Pages is also something like `yourgithubusername.github.io/template_site` (see note at the end of the guide about custom URLs) lets change this
+1. navigate to the `Settings` of your repository, change the name of the repository to whatever you would like (note it cannot contain any spaces). Moving forward we will refer to it as `your-course-name`
+2. as noted above, changing the name of the repository to `your-course-name` will also change the name of the sub-folder that your site is published from (if you scroll down to the `GitHub Pages` section of the `Settings` page you will see that the link to your site has changed). This will cause many of the links of your site to break. But fear not! To fix this we will make changes to the `_config.yml` file
 3. navigate to the `_config.yml` file in your repository, open it, and then click the pencil icon to be able to edit the `_config.yml` file in your browser
 4. change the `baseurl:` to match the sub-folder that your site is published from. It should be something like `baseurl: "/your-course-name"`. Note formatting here is important, the repository/sub-folder name must be in quotes and there must be a colon immediately after baseurl
-5. change other key information about your site. Update the title of your site, author, and description. Note: these do not need to be contained in quotes, the text you put here will appear exactly as you type it in the header and footer of your site's homepage.
+5. change other key information about your site. Update the title of your site, author, and description. Note: these do not need to be contained in quotes, the text you put here will appear exactly as you type it in the header and footer of your site's homepage
 6. when you are finished editing your `_config.yml` file scroll down to commit your changes (this saves all of the changes you made, and keeps a record of what those changes were)
 7. next we need to change the links to images contained in the site's post
-8. open the `_posts` folder, and open the `2020-01-01-last-first.md` file
+8. open the `_posts` folder, and open the `2020-01-01-last-first.md` file, again click on the pencil icon to open up the editor mode.
+9. there are two links to images in this post that need to be updated with your new repository/sub-folder name in order to function. Currently both look like `/template_site/images/image-name.png` replace `template_site` with your new repository/sub-folder name
+10. commit your changes
+11. wait a few minutes, and then navigate to the new link to your GitHub Pages site (you can find it in the `Settings` for your repository) check to see that everything is working.
 
- the name of your repository
-
-
- 2. Review
+Now you are ready to start adding your own material to your new website.
 
 
 
 
 ## Advanced notes:
-- GitHub pages supports the use of custom URLs, instructions are available [here](https://help.GitHub.com/en/GitHub/working-with-GitHub-pages/configuring-a-custom-domain-for-your-GitHub-pages-site). If you change this you will likely need to change the base URL in the config.yml file of your site. as well as any links to images and other resources within your posts. These previously would have been '/template_site' or what ever you changed them to above if you changed the name of your repository.
+- GitHub pages supports the use of custom URLs, instructions are available [here](https://help.GitHub.com/en/GitHub/working-with-GitHub-pages/configuring-a-custom-domain-for-your-GitHub-pages-site). If you change this you will likely need to change the base URL in the config.yml file of your site, as well as any links to images and other resources within your posts. These previously would have been '/template_site' or what ever you changed them to when renaming your repository in the steps above.
