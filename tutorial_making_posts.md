@@ -54,17 +54,17 @@ This tutorial accomplishes two things:
 6. create a new empty file in your text editor
 7. **Copy** all of the raw markdown from `.md` file in this repository and **paste** it in to this empty file.
 8. Save the file in the following format `2020-01-03-lastname.md`
-9. Once you save the file your text editor will recognize you are writing in markdown and will start highlighting the special syntax of this language:
+9. once you save the file your text editor will recognize you are writing in markdown and will start highlighting the special syntax of this language:
 ![syntax highlight]
-10. Now we will edit this file to get familiar with how to write in markdown
-11. 7. Edit the document's header (the area highlighted in a magenta dashed line above).
+10. now we will edit this file to get familiar with how to write in markdown
+11. edit the document's header (the area highlighted in a magenta dashed line above).
     - layout should stay labeled as post: `layout: post`
     - change the date to today's date
     - leave the image as-is for now
     - change the title to your uni:  `title:  "xyz2222"`
     - change the author to your name: `author: "Jane Adams"`
 
-12. Edit the document to practice formatting text and including links. Write in the document so you have:
+12. edit the document to practice formatting text and including links. Write in the document so you have:
     - a paragraph of text (use your final project proposal)
     - a word in bold,
     - a word in italics
@@ -118,7 +118,7 @@ To update your post after you have made changes to your markdown file in your te
 2. Select `Upload Files` as you did in step 3 above. **Note: make sure that you did not change the name of your file**. Drag the markdown file containing your post into the window. Write a commit message and commit your post
 
 3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared
-<!--
+
 
 [syntax highlight]: tutorial_img/tutorial_1_syntax_highlight.png
-[image upload]: -->
+[image upload]: tutorial_img/tutorial_2_image_upload.png
