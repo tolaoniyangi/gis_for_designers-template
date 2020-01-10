@@ -2,7 +2,7 @@
 layout: post
 date:   2020-01-01
 image: "/template_site/images/csr_thumbnail.png"
-title:  "Tutorial - making a post on this site"
+title:  "Tutorial - how to make a post on this site"
 author: ""
 ---
 
@@ -25,11 +25,13 @@ This tutorial accomplishes two things:
 #### Before you begin
 **Create a GitHub Account**  
 1. visit [github.com](https://github.com/) and sign up for a Github account if you do not already have one
-2. ask to be added as a contributor to this repository for your class's website if you are not already
+2. ask to be added as a contributor to the repository for your class's website if you are not already
 **Download and install the text editor of your choice**
 1. to create your post you will compose a plain text document. To do this you can use Notepad on Windows or Text Editor on Mac, however there are a number of great text editors out there that will help make things easier. [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) are two good options. Download and install one of these if you would like.
 
 #### Step 1: familiarize yourself with the structure of the site
+1. in a browser open both the GitHub repository and the class website (your professor should have given you links to both). The two pages will look something like this:
+![screenshot of repository and class website]
 1. this GitHub repository is currently hosting a simple website. If you have already been added as a collaborator to the repository, click on the repository's `Settings` and scroll down to the `GitHub Pages` section locate the URL of the site. Or ask the owner of the repository to send you the link. Navigate to this website to take a look at it.
 2. the simple website you just visited above is being hosted by this repository. Scroll up to look at the structure of the folders and files. Key things to note here:
     - the `_includes`, `_layout`, `_sass`, and `assets` folders contain the files that define the CSR template. You will not need to change any files inside these folders
@@ -122,3 +124,4 @@ To update your post after you have made changes to your markdown file in your te
 
 [syntax highlight]: tutorial_img/tutorial_1_syntax_highlight.png
 [image upload]: tutorial_img/tutorial_2_image_upload.png
+[screenshot of repository and class website]: tutorial_img/tutorial_0_twosites.png
