@@ -118,7 +118,7 @@ To update your post after you have made changes to your markdown file in your te
 2. Select `Upload Files` as you did in step 3 above. **Note: make sure that you did not change the name of your file**. Drag the markdown file containing your post into the window. Write a commit message and commit your post
 
 3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared
-
+<!--
 
 [syntax highlight]: tutorial_img/tutorial_1_syntax_highlight.png
-[image upload]:
+[image upload]: -->
