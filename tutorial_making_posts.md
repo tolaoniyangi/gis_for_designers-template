@@ -121,6 +121,11 @@ To update your post after you have made changes to your markdown file in your te
 
 3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared
 
+______________________________________________________________________________________________________________
+
+
+Tutorial written by Dare Brawley, for *Conflict Urbanism: Puerto Rico Now*, a spring 2019 seminar offered by the [Center for Spatial Research](http://c4sr.columbia.edu). More information about the course is available [here](http://c4sr.columbia.edu/courses/conflict-urbanism-puerto-rico-now).
+
 
 [syntax highlight]: tutorial_img/tutorial_1_syntax_highlight.png
 [image upload]: tutorial_img/tutorial_2_image_upload.png
