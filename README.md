@@ -55,7 +55,6 @@ This tutorial does not assume any prior knowledge of HTML/CSS, it does however a
           ```
     - the `images` folder is where any images that you include in the website should be placed
     - the `about.md` file is where you can add any text that will go in the 'about'
-    <div class="page-break"></div>
     - the `_config.yml` file is where key information about your site gets set (like the title, and all of the information contained in the site's footer)
 
 That's it! Next we will clone the repository and walk through how to change key information to customize it for your own use.
@@ -86,7 +85,14 @@ Currently your repository inherited the name of this CSR template repository tha
 
 Now you are ready to start adding your own material to your new website.
 
-
+### Step 4: site setup for your students
+There are a few steps to set up your site so that your students or other collaborators can add material directly to the site
+1. ask students to create their own account with GitHub & to send you the username associated with their account.
+2. add all students as 'Collaborators' to the repository of your website
+    - Navigate to the repository's page on GitHub, click on `Settings` and then `Collaborators & teams`
+    - add each of the student GitHub usernames to invite them to be 'collaborators' on the repository
+3. add the new url for your published GitHub pages site to the 'about' text for your repository so students and others can easily find it.
+4. direct your students to this tutorial to learn how to create a post and upload images    
 
 
 ### Advanced notes:
