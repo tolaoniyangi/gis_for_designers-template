@@ -1,5 +1,10 @@
-**How to Visualize Spatial Data using Grasshopper**
-
+---
+layout: post
+date:   2020-04-11
+image: "/gis_for_designers-template/images/t2-final.jpg"
+title:  "How to Visualize Spatial Data using Grasshopper"
+author: "Tola Oniyangi & Dare Brawley"
+---
 *This tutorial will cover how to import shapefiles into Rhino using Grasshopper and how to visualize them based on attribute information*
 ![image](images/t2-final.jpg)
 

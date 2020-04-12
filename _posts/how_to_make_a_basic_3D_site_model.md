@@ -1,6 +1,10 @@
-## GIS for Designers: 3D Techniques
-**How to Make a Basic 3D Site Model**
-
+---
+layout: post
+date:   2020-04-11
+image: "/gis_for_designers-template/images/t4-final.jpg"
+title:  "How to Make a Basic 3D Site Model"
+author: "Tola Oniyangi & Dare Brawley"
+---
 *This tutorial will cover how to make a basic site model using both 2D and 3D features as well as elevation features*
 ![image](images/t4-final.jpg)
 
