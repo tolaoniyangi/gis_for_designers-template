@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-04-11
-image: "/images/t2-final.jpg"
+image: "../images/t2-final.jpg"
 title:  "How to Visualize Spatial Data using Grasshopper"
 author: "Tola Oniyangi & Dare Brawley"
 ---
