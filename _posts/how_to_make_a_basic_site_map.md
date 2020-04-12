@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-04-11
-image: "/gis_for_designers-template/images/t2-final.jpg"
+image: "/images/t2-final.jpg"
 title:  "How to Make a Basic 2D Site Map"
 author: "Tola Oniyangi & Dare Brawley"
 ---

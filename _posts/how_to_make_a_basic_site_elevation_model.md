@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-04-11
-image: "/gis_for_designers-template/images/t3-final.jpg"
+image: "/images/t3-final.jpg"
 title:  "How to Make a Basic 3D Elevation Model from Elevation Points or Contour Lines"
 author: "Tola Oniyangi & Dare Brawley"
 ---
