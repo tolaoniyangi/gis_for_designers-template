@@ -6,6 +6,7 @@ title:  "How to Make a Basic 3D Elevation Model from Elevation Points or Contour
 author: "Tola Oniyangi & Dare Brawley"
 ---
 *This tutorial will cover the creation of a site elevation model from existing elevation points or contour lines*
+
 ![image](/gis_for_designers-template/images/t3-final.jpg)
 
 What you will learn:

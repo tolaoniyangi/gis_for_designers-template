@@ -1,11 +1,12 @@
 ---
 layout: post
 date:   2020-04-11
-image: "/gis_for_designers-template/images/t2-final.jpg"
+image: "/gis_for_designers-template/images/t1-final.jpg"
 title:  "How to Make a Basic 2D Site Map"
 author: "Tola Oniyangi & Dare Brawley"
 ---
 *This tutorial will cover the basics of ArcMap through the creation of a site plan of Morningside Heights*
+
 ![image](/gis_for_designers-template/images/t1-final.jpg)
 
 What you will learn:

@@ -6,6 +6,7 @@ title:  "How to Make a Basic 3D Site Model"
 author: "Tola Oniyangi & Dare Brawley"
 ---
 *This tutorial will cover how to make a basic site model using both 2D and 3D features as well as elevation features*
+
 ![image](/gis_for_designers-template/images/t4-final.jpg)
 
 What you will learn:
@@ -15,7 +16,7 @@ What you will learn:
 * How to change base heights of layers
 * How to extrude layers
 
-This tutorial will be done in ArcScene. The data for this tutorial was generated in the [How to Make a Basic Site Map](https://tolaoniyangi.github.io/gis_for_designers-template/how_to_make_a_basic_site_map.html) and [How to Make a Basic Site Model](https://tolaoniyangi.github.io/gis_for_designers-template/how_to_make_a_basic_3D_site_model.html) tutorials, and are all clipped to the Morningside Heights boundary:
+This tutorial will be done in ArcScene. The data for this tutorial was generated in the [How to Make a Basic Site Map](https://tolaoniyangi.github.io/gis_for_designers-template/2020/04/11/how_to_make_a_basic_site_map.html) and [How to Make a Basic Site Model](https://tolaoniyangi.github.io/gis_for_designers-template/2020/04/11/how_to_make_a_basic_site_elevation_model.html) tutorials, and are all clipped to the Morningside Heights boundary:
 * [Buildings](/gis_for_designers-template/data/buildings_mh.zip)
 * [Sidewalks](/gis_for_designers-template/data/sidewalks_mh.zip)
 * [Parks](/gis_for_designers-template/data/parks_mh.zip)
